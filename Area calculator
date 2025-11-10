@@ -55,5 +55,5 @@ class Area(App):
         self.t_label.text = "Area Calculator"
 
 
-if _name_ == '_main_':
+if __name__ == '__main__':
     Area().run()
